@@ -1,4 +1,4 @@
-# Moives Recommendation System
+# Movies Recommendation System
 
 ## Description
 
@@ -20,4 +20,4 @@ The system allows users to select a movie, and in return, it will suggest movies
 
 ## Demo
 
-[Watch Demo Video]
+[![Watch the Demo](https://via.placeholder.com/600x400.png)](https://drive.google.com/file/d/1EH-ziEoXcU3ZiwYRGfTXl7r1TlM-xr98/view?usp=drive_link)
