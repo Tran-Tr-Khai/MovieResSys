@@ -96,7 +96,7 @@ def display_results(title, top_n):
                 for _, row in result.iterrows():
                     st.write(f"**{row['title']}**")
                     if row['image_url']:
-                        st.image(row['image_url'], caption=row['title'], use_column_width=True)
+                        st.image(row['image_url'], caption=row['title'], use_container_width=True)
             else:
                 st.write("No results found for the movie title entered.")
         else:
