@@ -20,4 +20,4 @@ The system allows users to select a movie, and in return, it will suggest movies
 
 ## Demo
 
-![Watch the Demo](demo/demo.mp4)
+[Watch the Demo](https://drive.google.com/file/d/1EH-ziEoXcU3ZiwYRGfTXl7r1TlM-xr98/view?usp=drive_link)
